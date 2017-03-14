@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="60">
+	<Appenders>
+		<RollingRandomAccessFile name="logger"
+			fileName="logs/captureWeather.log" filePattern="logs/captureWeather.log.%i">
+			<PatternLayout>
+				<Pattern>%d{MM/dd/yyyy HH:mm:ss,SSS} [%level] %c{2} - %m%n
+				</Pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="7" />
+		</RollingRandomAccessFile>
+	</Appenders>
+	<Loggers>
+		<Root level="DEBUG">
+			<AppenderRef ref="logger" level="DEBUG" />
+		</Root>
+	</Loggers>
+</Configuration>
