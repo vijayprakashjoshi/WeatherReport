@@ -1,0 +1,91 @@
+03/14/2017 02:29:26,011 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Udaipur_WeatherReport.pdf
+03/14/2017 02:37:28,122 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:37:28,127 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:37:28,127 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:37:28,413 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:37:28,413 [DEBUG] report.FetchWeather - Fetching weather report for city: Udaipur
+03/14/2017 02:37:28,414 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Udaipur&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:37:28,743 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:37:28,743 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Udaipur_Weather.html
+03/14/2017 02:37:30,561 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Udaipur_WeatherReport.pdf
+03/14/2017 02:37:52,179 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:37:52,182 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:37:52,182 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:37:52,432 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:37:52,432 [DEBUG] report.FetchWeather - Fetching weather report for city: Udaipur
+03/14/2017 02:37:52,432 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Udaipur&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:37:52,753 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:37:52,753 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Udaipur_Weather.html
+03/14/2017 02:37:54,523 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Udaipur_WeatherReport.pdf
+03/14/2017 02:38:48,535 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:38:48,537 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:38:48,538 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:38:48,799 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:38:48,799 [DEBUG] report.FetchWeather - Fetching weather report for city: Udaipur
+03/14/2017 02:38:48,799 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Udaipur&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:38:49,126 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:38:49,126 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Udaipur_Weather.html
+03/14/2017 02:38:50,945 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Udaipur_WeatherReport.pdf
+03/14/2017 02:39:23,683 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:39:23,685 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:39:23,685 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:39:23,949 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:39:23,949 [DEBUG] report.FetchWeather - Fetching weather report for city: Bangalore
+03/14/2017 02:39:23,950 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Bangalore&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:39:24,255 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:39:24,255 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Bangalore_Weather.html
+03/14/2017 02:39:26,067 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Bangalore_WeatherReport.pdf
+03/14/2017 02:39:59,172 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:39:59,174 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:39:59,175 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:39:59,423 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:39:59,424 [DEBUG] report.FetchWeather - Fetching weather report for city: Bilaspur
+03/14/2017 02:39:59,424 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Bilaspur&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:39:59,832 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:39:59,832 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Bilaspur_Weather.html
+03/14/2017 02:40:01,601 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Bilaspur_WeatherReport.pdf
+03/14/2017 02:40:16,102 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:40:16,105 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:40:16,105 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:40:16,359 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:40:16,359 [DEBUG] report.FetchWeather - Fetching weather report for city: xyz
+03/14/2017 02:40:16,359 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=xyz&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:40:16,712 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:40:16,712 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/xyz_Weather.html
+03/14/2017 02:40:18,599 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/xyz_WeatherReport.pdf
+03/14/2017 02:40:34,002 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:40:34,007 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:40:34,007 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:40:34,308 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:40:34,308 [DEBUG] report.FetchWeather - Fetching weather report for city: abc
+03/14/2017 02:40:34,309 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=abc&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:40:34,713 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:40:34,714 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/abc_Weather.html
+03/14/2017 02:40:36,418 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/abc_WeatherReport.pdf
+03/14/2017 02:41:09,610 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 02:41:09,613 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 02:41:09,613 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 02:41:09,874 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 02:41:09,875 [DEBUG] report.FetchWeather - Fetching weather report for city: Bangalore
+03/14/2017 02:41:09,875 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Bangalore&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 02:41:10,153 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 02:41:10,153 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Bangalore_Weather.html
+03/14/2017 02:41:11,949 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Bangalore_WeatherReport.pdf
+03/14/2017 03:01:02,361 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 03:01:02,367 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 03:01:02,367 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 03:01:02,663 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 03:01:02,663 [DEBUG] report.FetchWeather - Fetching weather report for city: Bangalore
+03/14/2017 03:01:02,663 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Bangalore&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 03:01:03,613 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 03:01:03,614 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Bangalore_Weather.html
+03/14/2017 03:01:06,852 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Bangalore_WeatherReport.pdf
+03/14/2017 03:01:15,139 [DEBUG] report.FetchWeather - Initializing configs from properties files
+03/14/2017 03:01:15,142 [DEBUG] resources.ResourceHandler - query Key Map: {mode=mode, city=q, appId=APPID} !!
+03/14/2017 03:01:15,142 [DEBUG] resources.ResourceHandler - Initialized general properties !!
+03/14/2017 03:01:15,404 [DEBUG] resources.RestUtils - Initialized httpClient properties !!
+03/14/2017 03:01:15,404 [DEBUG] report.FetchWeather - Fetching weather report for city: Udaipur
+03/14/2017 03:01:15,404 [DEBUG] report.FetchWeather - Final url: api.openweathermap.org/data/2.5/weather?q=Udaipur&APPID=766053c60333161799aed1a091ac39ee&mode=html
+03/14/2017 03:01:15,954 [DEBUG] resources.RestUtils - Request fired successfully !!
+03/14/2017 03:01:15,954 [DEBUG] resources.RestUtils - HTML File location: /Users/vi365267/Documents/workspace/WeatherReport/output/HTMLReports/Udaipur_Weather.html
+03/14/2017 03:01:17,809 [INFO] report.FetchWeather - PDF Weather Report: /Users/vi365267/Documents/workspace/WeatherReport/output/PDFReports/Udaipur_WeatherReport.pdf
